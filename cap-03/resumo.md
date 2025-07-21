@@ -3,7 +3,7 @@
 - A função chama a si mesma
 - para não cair em loop infinito, usamos:
     - **Caso-recursivo:** momento em que a função chama a si mesma
-    - **Caso-base:**momento em que a função não chama a si mesma, interrompendo o loop
+    - **Caso-base:** momento em que a função não chama a si mesma, interrompendo o loop
 
 ## Pilha
 
