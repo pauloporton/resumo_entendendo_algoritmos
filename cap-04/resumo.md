@@ -5,9 +5,9 @@
 - Forma de pensar o problema
 - Divide em dois problemas menores
 
-- 1º : Descubra o caso-base, que deve ser o mais simples possível
-- 2º : Descubra como reduzir o seu problema para que ele se torne o caso-base
-*Se envolver array, muitas vezes o caso-base será um array vazio ou com 1 elemento*
+    - 1º : Descubra o caso-base, que deve ser o mais simples possível
+    - 2º : Descubra como reduzir o seu problema para que ele se torne o caso-base
+    *Se envolver array, muitas vezes o caso-base será um array vazio ou com 1 elemento*
 
 # Quicksort
 
