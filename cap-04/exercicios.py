@@ -19,8 +19,10 @@ def maximo(lista):
             return lista[0]
         else:
             return lista[1]        
+        
     sub_max = maximo(lista[1:]) # caso recursivo
     if lista[0] > sub_max:
         return lista[0]
     else:
         return sub_max
+    

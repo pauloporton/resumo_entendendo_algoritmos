@@ -4,7 +4,7 @@
 - O(log n) -> tempo de execuação logarítmico
 - Busca o item analisando se ele está a cima ou abaixo da metade da lista
 - Fica ainda mais rápido conforme os elementos da lista aumentam
-- Fórmula nº de tentaivas: log2(n) -> log de 'n' na base 2
+- Fórmula nº de tentativas: log2(n) -> log de 'n' na base 2
 
 
 # Big O notation
