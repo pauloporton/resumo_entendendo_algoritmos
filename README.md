@@ -6,3 +6,8 @@
 ## Resumo do livro 'Entendendo Algoritmos', por Aditya Y. Bhargava
 - cap 01. [Introdução a algoritmos](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-01)
 - cap 02. [Ordenação por seleção](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-02)
+- cap 03. [Recursão](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-03)
+- cap 04. [Quicksort](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-04)
+- cap 05. [Tabelas Hash](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-05)
+- cap 06. [Pesquisa em largura](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-06)
+- cap 07. [Algoritmo de Dijkstra](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-07)
