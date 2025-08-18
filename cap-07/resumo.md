@@ -6,8 +6,8 @@
 - Se o seu grafo tiver pesos negativos, use o algoritmo de Bellman-Ford
 
 # Lógica
-1 - Encontre o custo mais baixo que ainda não foi processado
-2 - Atualize os custos para os seus vizinhos
-3 - Se qualquer um dos custos for atualizado, atualize também o pai
-4 - Marque o vértice como processado
-5 - Volte
+1. Encontre o custo mais baixo que ainda não foi processado
+2.  Atualize os custos para os seus vizinhos
+3. Se qualquer um dos custos for atualizado, atualize também o pai
+4. Marque o vértice como processado
+5. Volte
