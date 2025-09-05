@@ -1,4 +1,4 @@
-# R Algoritmos Gulosos
+# Algoritmos Gulosos
 - "greedy algorithms"
 - A cada etapa, deve-se escolher o movimento ideal
 - Fazem escolhas locais esperando alcançar uma solução global ótima
