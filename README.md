@@ -13,3 +13,4 @@
 - cap 07. [Algoritmo de Dijkstra](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-07)
 - cap 08. [Algoritmos gulosos](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-08)
 - cap 09. [Programação dinâmica](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-09)
+- cap 10. [K-vizinhos mais próximos](https://github.com/pauloporton/resumo_entendendo_algoritmos/tree/main/cap-10)
